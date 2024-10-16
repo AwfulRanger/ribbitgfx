@@ -1,0 +1,105 @@
+tile_page_interface
+
+[OBJECT:TILE_PAGE]
+
+
+
+[TILE_PAGE:INTERFACE_BORDER]
+	[FILE:images/interface_border.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:112:120]
+
+[TILE_PAGE:INTERFACE_BUTTON]
+	[FILE:images/interface_button.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:288:1332]
+
+[TILE_PAGE:INTERFACE_STRESS]
+	[FILE:images/interface_stress.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:14:2]
+
+[TILE_PAGE:INTERFACE_SCROLLBAR]
+	[FILE:images/interface_scrollbar.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:96:60]
+
+[TILE_PAGE:INTERFACE_TAB]
+	[FILE:images/interface_tab.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:80:84]
+
+[TILE_PAGE:INTERFACE_CURSOR]
+	[FILE:images/interface_cursor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:16]
+
+[TILE_PAGE:INTERFACE_MOON]
+	[FILE:images/interface_moon.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:10:1]
+
+[TILE_PAGE:INTERFACE_UNIT_STATUS]
+	[FILE:images/interface_unit_status.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:36:1]
+
+[TILE_PAGE:INTERFACE_UNIT_SELECTOR]
+	[FILE:images/interface_unit_selector.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:1]
+
+[TILE_PAGE:INTERFACE_STOCKPILE]
+	[FILE:images/interface_stockpile.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:20:2]
+
+[TILE_PAGE:INTERFACE_ZONE]
+	[FILE:images/interface_zone.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:16]
+
+[TILE_PAGE:INTERFACE_NOBLE]
+	[FILE:images/interface_noble.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:160:252]
+
+[TILE_PAGE:INTERFACE_LABOR]
+	[FILE:images/interface_labor.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:576:72]
+
+[TILE_PAGE:INTERFACE_CUSTOM_SYMBOL]
+	[FILE:images/interface_custom_symbol.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:23:1]
+
+[TILE_PAGE:INTERFACE_SQUAD]
+	[FILE:images/interface_squad.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:352:108]
+
+[TILE_PAGE:INTERFACE_CALENDAR]
+	[FILE:images/interface_calendar.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:72:60]
+
+[TILE_PAGE:INTERFACE_DESIGNATION]
+	[FILE:images/interface_designation.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:6]
+
+[TILE_PAGE:INTERFACE_DEFAULT]
+	[FILE:images/interface_default.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:2]
+
+[TILE_PAGE:INTERFACE_ANNOUNCEMENT]
+	[FILE:images/interface_announcement.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:37:1]
+
+[TILE_PAGE:BUILDING_ICON]
+	[FILE:images/building_icon.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:13]

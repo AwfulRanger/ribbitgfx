@@ -1,0 +1,65 @@
+tile_page_plants
+
+[OBJECT:TILE_PAGE]
+
+
+
+[TILE_PAGE:GRASS]
+	[FILE:images/grass.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:10]
+
+[TILE_PAGE:PLANT]
+	[FILE:images/plant.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:2:2]
+
+[TILE_PAGE:PLANT_CROP]
+	[FILE:images/plant_crop.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:34]
+
+[TILE_PAGE:PLANT_GARDEN]
+	[FILE:images/plant_garden.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:57]
+
+[TILE_PAGE:PLANT_STANDARD]
+	[FILE:images/plant_standard.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:11:21]
+
+[TILE_PAGE:TREE]
+	[FILE:images/tree.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:12:24]
+
+[TILE_PAGE:TREE_SAGUARO]
+	[FILE:images/tree_saguaro.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:12:12]
+
+[TILE_PAGE:TREE_CAP]
+	[FILE:images/tree_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
+[TILE_PAGE:TREE_NETHER_CAP]
+	[FILE:images/tree_nether_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
+[TILE_PAGE:TREE_TOWER_CAP]
+	[FILE:images/tree_tower_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
+[TILE_PAGE:TREE_BLACK_CAP]
+	[FILE:images/tree_black_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
+[TILE_PAGE:TREE_FEATHER]
+	[FILE:images/tree_feather.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:12:16]

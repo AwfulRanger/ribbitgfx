@@ -1,0 +1,150 @@
+tile_page_items
+
+[OBJECT:TILE_PAGE]
+
+
+
+[TILE_PAGE:STATUE]
+	[FILE:images/statue.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]
+
+[TILE_PAGE:CONTAINER]
+	[FILE:images/container.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
+[TILE_PAGE:ITEM]
+	[FILE:images/item.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:4]
+
+[TILE_PAGE:ITEM_BOULDER]
+	[FILE:images/item_boulder.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
+[TILE_PAGE:ITEM_HATCH_COVER]
+	[FILE:images/item_hatch_cover.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]
+
+[TILE_PAGE:ITEM_FLOODGATE]
+	[FILE:images/item_floodgate.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:3]
+
+[TILE_PAGE:ITEM_DOOR]
+	[FILE:images/item_door.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]
+
+[TILE_PAGE:ITEM_GRATE]
+	[FILE:images/item_grate.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:ITEM_TOY]
+	[FILE:images/item_toy.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:6:4]
+
+[TILE_PAGE:ITEM_EQUIPMENT]
+	[FILE:images/item_equipment.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:12:11]
+
+[TILE_PAGE:ITEM_CAGE]
+	[FILE:images/item_cage.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:3:2]
+
+[TILE_PAGE:ITEM_ANIMAL_TRAP]
+	[FILE:images/item_animal_trap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:2:2]
+
+[TILE_PAGE:ITEM_CHAIR]
+	[FILE:images/item_chair.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]
+
+[TILE_PAGE:ITEM_COFFIN]
+	[FILE:images/item_coffin.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]
+
+[TILE_PAGE:ITEM_TABLE]
+	[FILE:images/item_table.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]
+
+[TILE_PAGE:ITEM_BOX]
+	[FILE:images/item_box.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]
+
+[TILE_PAGE:ITEM_EQUIPMENTRACK]
+	[FILE:images/item_equipmentrack.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:6:2]
+
+[TILE_PAGE:ITEM_CABINET]
+	[FILE:images/item_cabinet.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]
+
+[TILE_PAGE:ITEM_WEB]
+	[FILE:images/item_web.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:2:1]
+
+[TILE_PAGE:ITEM_TRAPCOMP]
+	[FILE:images/item_trapcomp.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:6:1]
+
+[TILE_PAGE:ITEM_AMMO]
+	[FILE:images/item_ammo.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:2]
+
+[TILE_PAGE:ITEM_CRAFT]
+	[FILE:images/item_craft.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:2:7]
+
+[TILE_PAGE:ITEM_COIN]
+	[FILE:images/item_coin.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:1]
+
+[TILE_PAGE:ITEM_BED]
+	[FILE:images/item_bed.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:2]
+
+[TILE_PAGE:ITEM_TRACTION_BENCH]
+	[FILE:images/item_traction_bench.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]
+
+[TILE_PAGE:ITEM_EGG]
+	[FILE:images/item_egg.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:1]
+
+[TILE_PAGE:TRAP]
+	[FILE:images/trap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:10:8]
+
+[TILE_PAGE:ITEM_BOOKCASE]
+	[FILE:images/item_bookcase.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:1]
+
+[TILE_PAGE:INSTRUMENT]
+	[FILE:images/instrument.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]

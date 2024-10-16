@@ -1,0 +1,85 @@
+tile_page_buildings
+
+[OBJECT:TILE_PAGE]
+
+
+
+[TILE_PAGE:STOCKPILE]
+	[FILE:images/stockpile.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:7]
+
+[TILE_PAGE:TRACK]
+	[FILE:images/track.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:12]
+
+[TILE_PAGE:PLANNED_CONSTRUCTION]
+	[FILE:images/planned_construction.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:8]
+
+[TILE_PAGE:AXLE_GEAR]
+	[FILE:images/axle_gear.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]
+
+[TILE_PAGE:WINDMILL]
+	[FILE:images/windmill.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:12:16]
+
+[TILE_PAGE:WATER_WHEEL]
+	[FILE:images/water_wheel.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:4]
+
+[TILE_PAGE:SCREWPUMP]
+	[FILE:images/screwpump.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:2]
+
+[TILE_PAGE:BUILDING_CHAIN]
+	[FILE:images/building_chain.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:6:6]
+
+[TILE_PAGE:BUILDING]
+	[FILE:images/building.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:3:8]
+
+[TILE_PAGE:BRIDGE]
+	[FILE:images/bridge.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:21]
+
+[TILE_PAGE:WAGON]
+	[FILE:images/wagon.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:14]
+
+[TILE_PAGE:WORKSHOP_1X1]
+	[FILE:images/workshop_1x1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:2]
+
+[TILE_PAGE:WORKSHOP_3X3]
+	[FILE:images/workshop_3x3.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:40]
+
+[TILE_PAGE:WORKSHOP_5X5]
+	[FILE:images/workshop_5x5.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:15:12]
+
+[TILE_PAGE:BUILDING_TRAP]
+	[FILE:images/building_trap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:9:1]
+
+[TILE_PAGE:SIEGE_WEAPON]
+	[FILE:images/siege_weapon.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:12:6]

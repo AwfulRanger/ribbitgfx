@@ -12,7 +12,7 @@ tile_page_interface
 [TILE_PAGE:INTERFACE_BUTTON]
 	[FILE:images/interface_button.png]
 	[TILE_DIM:8:12]
-	[PAGE_DIM_PIXELS:288:1332]
+	[PAGE_DIM_PIXELS:288:1344]
 
 [TILE_PAGE:INTERFACE_STRESS]
 	[FILE:images/interface_stress.png]
@@ -42,12 +42,12 @@ tile_page_interface
 [TILE_PAGE:INTERFACE_UNIT_STATUS]
 	[FILE:images/interface_unit_status.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:36:1]
+	[PAGE_DIM:41:1]
 
 [TILE_PAGE:INTERFACE_UNIT_SELECTOR]
 	[FILE:images/interface_unit_selector.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:4:1]
+	[PAGE_DIM:5:1]
 
 [TILE_PAGE:INTERFACE_STOCKPILE]
 	[FILE:images/interface_stockpile.png]
@@ -103,3 +103,88 @@ tile_page_interface
 	[FILE:images/building_icon.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:8:13]
+
+[TILE_PAGE:MEMORY_MAP]
+	[FILE:images/memory_map.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]
+
+[TILE_PAGE:INTERFACE_ADVENTURE]
+	[FILE:images/interface_adventure.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:32:22]
+
+[TILE_PAGE:INTERFACE_ADVENTURE_INVENTORY]
+	[FILE:images/interface_adventure_inventory.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:24:9]
+
+[TILE_PAGE:COMBAT_ICON]
+	[FILE:images/combat_icon.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:32:24]
+
+[TILE_PAGE:INTERFACE_ADVENTURE_COMBAT_PREF]
+	[FILE:images/interface_adventure_combat_pref.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:36:6]
+
+[TILE_PAGE:INTERFACE_ADVENTURE_TRAVEL]
+	[FILE:images/interface_adventure_travel.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:28:6]
+
+[TILE_PAGE:ABILITY_LIST_ICON]
+	[FILE:images/ability_list_icon.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:32:15]
+
+[TILE_PAGE:SIDE_INDICATOR]
+	[FILE:images/side_indicator.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:1]
+
+[TILE_PAGE:SOUND_INDICATOR]
+	[FILE:images/sound_indicator.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:4]
+
+[TILE_PAGE:STEALTH_VISION]
+	[FILE:images/stealth_vision.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:3:2]
+
+[TILE_PAGE:ADV_ENV_ODOR]
+	[FILE:images/adv_env_odor.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:24:6]
+
+[TILE_PAGE:ADV_ENV_TEMPERATURE]
+	[FILE:images/adv_env_temperature.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:20:6]
+
+[TILE_PAGE:ADV_ENV_WEATHER]
+	[FILE:images/adv_env_weather.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:32:21]
+
+[TILE_PAGE:MOVE_INDICATOR]
+	[FILE:images/move_indicator.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:12:8]
+
+[TILE_PAGE:TRACKING_SYMBOL]
+	[FILE:images/tracking_symbol.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:29:16]
+
+[TILE_PAGE:COMBAT_ANIMATION_SWISH]
+	[FILE:images/combat_animation_swish.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:8]
+
+[TILE_PAGE:COMBAT_ANIMATION_SPARKS]
+	[FILE:images/combat_animation_sparks.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:8]

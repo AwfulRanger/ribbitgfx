@@ -32,7 +32,7 @@ tile_page_world_map
 [TILE_PAGE:WORLD_MAP_DETAIL]
 	[FILE:images/world_map_detail.png]
 	[TILE_DIM:16:16]
-	[PAGE_DIM:15:11]
+	[PAGE_DIM:15:12]
 
 [TILE_PAGE:WORLD_MAP_INTERFACE]
 	[FILE:images/world_map_interface.png]
@@ -78,3 +78,28 @@ tile_page_world_map
 	[FILE:images/world_map_edge_beach_line.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:15:13]
+
+[TILE_PAGE:WORLD_MAP_SITE]
+	[FILE:images/world_map_site.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:16:29]
+
+[TILE_PAGE:WORLD_MAP_SITE_CORNER]
+	[FILE:images/world_map_site_corner.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]
+
+[TILE_PAGE:WORLD_MAP_CLOUD]
+	[FILE:images/world_map_cloud.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:6:9]
+
+[TILE_PAGE:WORLD_MAP_DRAWN]
+	[FILE:images/world_map_drawn.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:8:11]
+
+[TILE_PAGE:TEST16]
+	[FILE:images/test16.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:16:16]

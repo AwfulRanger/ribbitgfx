@@ -22,7 +22,22 @@ tile_page_creatures
 [TILE_PAGE:CREATUREASCII_OVERLAY]
 	[FILE:images/creatureascii_overlay.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:8:8]
+	[PAGE_DIM:8:16]
+
+[TILE_PAGE:CREATUREASCII_PORTRAIT_COLOR]
+	[FILE:images/creatureascii_portrait_color.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM:16:256]
+
+[TILE_PAGE:CREATUREASCII_PORTRAIT_NAME]
+	[FILE:images/creatureascii_portrait_name.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM:32:32]
+
+[TILE_PAGE:CREATUREASCII_PORTRAIT_OVERLAY]
+	[FILE:images/creatureascii_portrait_overlay.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM:8:16]
 
 [TILE_PAGE:CREATUREASCII_STATUE]
 	[FILE:images/creatureascii_statue.png]
@@ -38,3 +53,13 @@ tile_page_creatures
 	[FILE:images/gibs.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:8:7]
+
+[TILE_PAGE:PORTRAIT_FRAME]
+	[FILE:images/portrait_frame.png]
+	[TILE_DIM:96:96]
+	[PAGE_DIM:6:3]
+
+[TILE_PAGE:CREATURE_ABILITY_LIST_ICONS]
+	[FILE:images/creature_ability_list_icons.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:32:3]

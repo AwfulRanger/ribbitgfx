@@ -14,6 +14,11 @@ tile_page_environment
 	[TILE_DIM:32:32]
 	[PAGE_DIM:8:9]
 
+[TILE_PAGE:FLOOR_PEBBLE]
+	[FILE:images/floor_pebble.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:3]
+
 [TILE_PAGE:BOULDER]
 	[FILE:images/boulder.png]
 	[TILE_DIM:32:32]
@@ -43,6 +48,11 @@ tile_page_environment
 	[FILE:images/ramp_stone.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:8:8]
+
+[TILE_PAGE:RAMP_SAND]
+	[FILE:images/ramp_sand.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:24]
 
 [TILE_PAGE:STAIRS]
 	[FILE:images/stairs.png]
@@ -260,7 +270,16 @@ tile_page_environment
 	[PAGE_DIM:8:8]
 
 [TILE_PAGE:RIVERBED]
-	[FILE:images/brookbed.png]
+	[FILE:images/riverbed.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:8:8]
 
+[TILE_PAGE:CAMPFIRE]
+	[FILE:images/campfire.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:2]
+
+[TILE_PAGE:VISION_SHADOW]
+	[FILE:images/vision_shadow.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:4]

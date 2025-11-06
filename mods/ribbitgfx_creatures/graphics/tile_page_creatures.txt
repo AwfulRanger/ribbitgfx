@@ -68,3 +68,8 @@ tile_page_creatures
 	[FILE:images/creature_humanoid.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:32:32]
+
+[TILE_PAGE:CREATURE_DOMESTIC]
+	[FILE:images/creature_domestic.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:48]

@@ -82,4 +82,9 @@ tile_page_buildings
 [TILE_PAGE:SIEGE_WEAPON]
 	[FILE:images/siege_weapon.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:12:6]
+	[PAGE_DIM:12:30]
+
+[TILE_PAGE:BOLT_THROWER]
+	[FILE:images/bolt_thrower.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]

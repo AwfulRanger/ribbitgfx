@@ -37,7 +37,7 @@ tile_page_items
 [TILE_PAGE:ITEM_DOOR]
 	[FILE:images/item_door.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:4:4]
+	[PAGE_DIM:8:7]
 
 [TILE_PAGE:ITEM_GRATE]
 	[FILE:images/item_grate.png]
@@ -52,7 +52,7 @@ tile_page_items
 [TILE_PAGE:ITEM_EQUIPMENT]
 	[FILE:images/item_equipment.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:12:11]
+	[PAGE_DIM:13:11]
 
 [TILE_PAGE:ITEM_CAGE]
 	[FILE:images/item_cage.png]
@@ -158,3 +158,8 @@ tile_page_items
 	[FILE:images/item_remnant.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:4:8]
+
+[TILE_PAGE:RAM]
+	[FILE:images/ram.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:5:12]

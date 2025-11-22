@@ -149,6 +149,11 @@ tile_page_environment
 	[TILE_DIM:32:32]
 	[PAGE_DIM:8:8]
 
+[TILE_PAGE:WALL_REINFORCED_METAL]
+	[FILE:images/wall_reinforced_metal.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:8:8]
+
 [TILE_PAGE:FORTIFICATION]
 	[FILE:images/fortification.png]
 	[TILE_DIM:32:32]
@@ -283,3 +288,8 @@ tile_page_environment
 	[FILE:images/vision_shadow.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:5:4]
+
+[TILE_PAGE:SCAFFOLD]
+	[FILE:images/scaffold.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]

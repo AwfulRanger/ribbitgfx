@@ -12,7 +12,7 @@ tile_page_interface
 [TILE_PAGE:INTERFACE_BUTTON]
 	[FILE:images/interface_button.png]
 	[TILE_DIM:8:12]
-	[PAGE_DIM_PIXELS:288:1344]
+	[PAGE_DIM_PIXELS:288:1380]
 
 [TILE_PAGE:INTERFACE_STRESS]
 	[FILE:images/interface_stress.png]
@@ -182,9 +182,14 @@ tile_page_interface
 [TILE_PAGE:COMBAT_ANIMATION_SWISH]
 	[FILE:images/combat_animation_swish.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:16:8]
+	[PAGE_DIM:20:8]
 
 [TILE_PAGE:COMBAT_ANIMATION_SPARKS]
 	[FILE:images/combat_animation_sparks.png]
 	[TILE_DIM:32:32]
 	[PAGE_DIM:16:8]
+
+[TILE_PAGE:COMBAT_ANIMATION_RAM]
+	[FILE:images/combat_animation_ram.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:4]
